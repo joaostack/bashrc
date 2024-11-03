@@ -1,8 +1,7 @@
-## WELCOME
 BLUE="\e[94m"
 RESET="\e[0m"
 printf "${BLUE}"
-figlet -f slant VOID LINUX
+cowsay "Hey! There!"
 printf "${RESET}"
 
 ## SHELL
